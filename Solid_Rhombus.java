@@ -1,5 +1,3 @@
-package butterfly;
-
 public class Solid_Rhombus {
 public static void rhombus(int n){
 	   for(int i=1; i<=n; i++) {
